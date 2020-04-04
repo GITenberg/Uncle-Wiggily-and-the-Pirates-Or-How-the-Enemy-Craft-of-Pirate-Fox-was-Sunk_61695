@@ -1,0 +1,51 @@
+_repo: Uncle-Wiggily-and-the-Pirates-Or-How-the-Enemy-Craft-of-Pirate-Fox-was-Sunk_61695
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Campbell, Lang
+    alias: Campbell, Lansing
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '44668'
+    url: http://www.gutenberg.org/2009/agents/44668
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2020-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foxes -- Juvenile fiction'
+- !lcsh 'Muskrat -- Juvenile fiction'
+- !lcsh 'Bobcat -- Juvenile fiction'
+- !lcsh 'Humorous stories, American'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Swine -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Squirrels -- Juvenile fiction'
+- !lcsh 'Alligators -- Juvenile fiction'
+- !lcsh 'Wolves -- Juvenile fiction'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- GITenberg
+tableOfContents: Uncle Wiggily and the pirates, or, How the enemy craft of Pirate
+  Fox was sunk -- The bob cat nearly spoiled a nutting party -- Uncle Wiggily and
+  Nurse Jane gather May flowers.
+title: Uncle Wiggily and the Pirates; Or, How the Enemy Craft of Pirate Fox was Sunk
+url: http://www.gutenberg.org/ebooks/61695
